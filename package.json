@@ -1,0 +1,23 @@
+{
+  "name": "littletiers",
+  "version": "1.0.0",
+  "description": "little tiers",
+  "main": "http_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogsio/littletiers.git"
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kogsio/littletiers/issues"
+  },
+  "homepage": "https://github.com/kogsio/littletiers#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
+  }
+}
